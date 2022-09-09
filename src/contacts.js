@@ -2,23 +2,24 @@ const contacts = [
   {
     name: "Desmond",
     imgURL:
-      "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
+      "https://i.pinimg.com/originals/7b/aa/25/7baa252dbdfeed669c152bedd2fa5feb.jpg",
     phone: "0209033999",
     email: "desmondjaab@gmail.com"
   },
   {
-    name: "Jack Bauer",
+    name: "elikem",
     imgURL:
-      "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
-    phone: "+987 654 321",
-    email: "jack@nowhere.com"
+      "https://www.cnet.com/a/img/resize/c5ac958abd25b6d2bbbbcd5c685b15948194a7ed/2017/10/13/c18172fb-b806-4520-b200-5eb5d3419148/6360498178139720611073070814-rick-and-morty.jpg?auto=webp&fit=crop&height=1200&width=1200",
+    phone: "052187683",
+    email: "elikem@gmail.com"
   },
   {
-    name: "Chuck Norris",
-    imgURL:
-      "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
-    phone: "+918 372 574",
-    email: "gmail@chucknorris.com"
+    name: "gilbert",
+    imgURL:"https://static.tvtropes.org/pmwiki/pub/images/morty_smith_2.png",
+      
+    phone: "0570435966",
+    email: "gilbert@gmail.com"
   }
+ 
 ];
 export default contacts
